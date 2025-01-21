@@ -3,4 +3,4 @@ A simple dice game where two people choose to be either player 1 or player 2 and
 
 # Why make this game?
 1. To revise my fundamentals of HTML, CSS, and JavaScript, adhering to principles of modularity, and reusability.
-2. Dice is a fun game of chance no?
+2. Dice is a fun game of chance
