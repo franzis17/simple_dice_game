@@ -51,10 +51,10 @@ function changeDiceImage(dice_i, rolledNum) {
 
 function displayWinner(playerNum) {
   if (playerNum[0] > playerNum[1]) {
-    document.querySelector("h1").innerHTML = "Player 1 wins!";
+    document.querySelector("h1").innerHTML = '<span style="color: green;">Player 1</span> wins!';
   }
   else if (playerNum[1] > playerNum[0]) {
-    document.querySelector("h1").innerHTML = "Player 2 wins!";
+    document.querySelector("h1").innerHTML = '<span style="color: blue;">Player 2</span> wins!';
   }
   else {
     document.querySelector("h1").innerHTML = "It's a Draw!";

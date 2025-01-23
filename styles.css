@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Joystix';
+  src: url('./fonts/joystix\ monospace.otf');
+}
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+}
+
+body {
+  background-color: rgb(255, 167, 116);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Joystix';
+  font-size: 4rem;
+}
+
+p {
+  font-family: 'Joystix';
+  font-size: 2rem;
+}
+
+#player1-p {
+  color: green;
+}
+#player2-p {
+  color: blue;
+}
+
+img {
+  width: 80%;
+}
+
+.btn {
+  background-color: black;
+  border-color: black;
+  font-family: 'Joystix';
+  margin: 30px;
+  height: 50px;
+  padding: 0px 20px;
+  border-radius: 50px;
+}
