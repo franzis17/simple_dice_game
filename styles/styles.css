@@ -1,7 +1,6 @@
 @font-face {
   font-family: 'Joystix';
-  src: url('../fonts/joystix\ monospace.otf');
-  
+  src: url('./simple_dice_game/fonts/joystix_monospace.otf');
 }
 
 
