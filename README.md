@@ -6,3 +6,6 @@ roll the dice to see who wins between the two.
 1. To revise fundamentals of HTML, CSS, and JavaScript, adhering to principles of modularity,
 and reusability, as well as improving code readability.
 2. Dice is a fun game of chance
+
+# How to run?
+1. Please visit: https://franzis17.github.io/simple_dice_game/
