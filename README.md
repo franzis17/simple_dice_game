@@ -9,3 +9,6 @@ and reusability, as well as improving code readability.
 
 # How to run?
 1. Please visit: https://franzis17.github.io/simple_dice_game/
+
+# Rules of the game
+- By a game of chance, the player with the highest number rolled is the winner.
